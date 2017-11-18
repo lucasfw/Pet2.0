@@ -21,6 +21,6 @@ public class Apresentacao extends AppCompatActivity {
                 startActivity(new Intent(getBaseContext(), Apresentacao2.class));
                 finish();
             }
-        },1000);
+        },5000);
     }
 }

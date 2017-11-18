@@ -23,7 +23,7 @@ public class Apresentacao3 extends AppCompatActivity {
                 startActivity(new Intent(getBaseContext(), LoginActivity.class));
                 finish();
             }
-        },1000);
+        },5000);
 
     }
 }
